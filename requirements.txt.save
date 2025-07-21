@@ -1,0 +1,10 @@
+torch
+ollama
+chromadb
+langchain
+sentence-transformers
+transformers
+PyPDF2
+python-docx
+numpy
+
