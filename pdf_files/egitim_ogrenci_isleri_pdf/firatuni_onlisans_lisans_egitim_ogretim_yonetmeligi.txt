@@ -1,19 +1,5 @@
-
-
---- Sayfa 1 ---
-8 Temmuz 2024 PAZARTESİ Resmi Gazete Sayı : 32596
-
-YÖNETMELİK
-
-Fırat Üniversitesinden:
-
-FIRAT ÜNİVERSİTESİ ÖN LİSANS VE LİSANS
-EĞİTİM-ÖĞRETİM YÖNETMELİĞİ
-
+FIRAT ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM YÖNETMELİĞİ
 BİRİNCİ BÖLÜM
-Başlangıç Hükümleri
-
-Amaç ve kapsam
 
 MADDE 1- (1) Bu Yönetmeliğin amacı; Fırat Üniversitesine bağlı Tıp ve Diş Hekimliği Fakülteleri dışındaki
 fakülte, yüksekokul, konservatuvar ve meslek yüksekokullarında yürütülen ön lisans ve lisans programlarında
@@ -23,60 +9,40 @@ uygulanacak eğitim-öğretim ve sınavlara ilişkin usul ve esasları düzenlem
 yüksekokul, konservatuvar ve meslek yüksekokullarında yürütülen ön lisans ve lisans programlarında uygulanacak
 eğitim-öğretim ve sınavlara ilişkin hükümleri kapsar.
 
-Dayanak
-
 MADDE 2- (1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 14 üncü ve 44 üncü
 maddelerine dayanılarak hazırlanmıştır.
 
-Tanımlar
-
 MADDE 3- (1) Bu Yönetmelikte geçen;
 
-a) Birim: Üniversiteye bağlı fakülte, yüksekokul, konservatuvar ve meslek yüksekokullarını,
-
-b) Diploma programı: Belirli bir alana yönelik eğitim veren ön lisans/lisans öğretim programını,
-
-c) GNO: Genel not ortalamasını,
-
-ç) Kredi: Avrupa Kredi Transfer ve Biriktirme Sistemi (AKTS) kapsamında, YÖK tarafından oluşturulan
+(a) Birim: Üniversiteye bağlı fakülte, yüksekokul, konservatuvar ve meslek yüksekokullarını,
+(b) Diploma programı: Belirli bir alana yönelik eğitim veren ön lisans/lisans öğretim programını,
+(c) GNO: Genel not ortalamasını,
+(ç) Kredi: Avrupa Kredi Transfer ve Biriktirme Sistemi (AKTS) kapsamında, YÖK tarafından oluşturulan
 yükseköğretim yeterlilikleri çerçevesinde, bir diploma programını bitiren öğrencinin kazanacağı bilgi, beceri ve
 yetkinliklere bir dersin katkısını ifade eden, o dersin sınıf içi ve sınıf dışı tüm eğitim-öğretim faaliyetleri için öğrencinin
 ihtiyaç duyacağı varsayılan çalışma saatleri göz önünde bulundurularak hesaplanan değeri,
-
-d) Öğrenci: Fırat Üniversitesi ön lisans/lisans programlarına kayıtlı öğrenciyi,
-
-e) Öğrenci Bilgi Sistemi (OBS): Üniversitenin Öğrenci İşleri Daire Başkanlığı tarafından yönetilen ve tüm
+(d) Öğrenci: Fırat Üniversitesi ön lisans/lisans programlarına kayıtlı öğrenciyi,
+(e) Öğrenci Bilgi Sistemi (OBS): Üniversitenin Öğrenci İşleri Daire Başkanlığı tarafından yönetilen ve tüm
 öğrenci bilgilerinin kaydedildiği internet tabanlı öğrenci bilgi sistemini,
-
-f) Örgün öğretim: Öğrencilerin eğitim-öğretim süresince ders ve uygulamalara devam etme zorunluluğunda
-olduğu eğitim-öğretim türünü,
-
-g) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
-
-8) Rektör: Fırat Üniversitesi Rektörünü,
-
-h) Senato: Fırat Üniversitesi Senatosunu,
-
-i) Üniversite: Fırat Üniversitesini,
-
-i) YÖK: Yükseköğretim Kurulunu,
-
-ifade eder.
+(f) Örgün öğretim: Öğrencilerin eğitim-öğretim süresince ders ve uygulamalara devam etme zorunluluğunda olduğu eğitim-öğretim türünü,
+(g) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+(ğ) Rektör: Fırat Üniversitesi Rektörünü,
+(h) Senato: Fırat Üniversitesi Senatosunu,
+(ı) Üniversite: Fırat Üniversitesini,
+(i) YÖK: Yükseköğretim Kurulunu, ifade eder.
 
 İKİNCİ BÖLÜM
-Öğrenci Kabulü ve Kayıt, Geçişler, Muafiyet
-
 Öğrenci kabulü ve kayıt
 
 MADDE 4- (1) Üniversiteye kabul için aşağıdaki şartlar aranır:
 
-a) Türkiye'de bir liseden veya Milli Eğitim Bakanlığı tarafından lise dengi olarak kabul edilen yurt içindeki veya
+(a) Türkiye'de bir liseden veya Milli Eğitim Bakanlığı tarafından lise dengi olarak kabul edilen yurt içindeki veya
 yurt dışındaki bir okuldan diploma almaya hak kazandığını gösteren bir belgeye sahip olmak.
 
-b) ÖSYM tarafından yapılan merkezi sınavlar ve/veya Üniversite tarafından yapılan özel yetenek sınavı
+(b) ÖSYM tarafından yapılan merkezi sınavlar ve/veya Üniversite tarafından yapılan özel yetenek sınavı
 sonucuna göre kayıt hakkı kazanmış olmak.
 
-c) Başka bir yükseköğretim kurumunda örgün eğitim, uzaktan eğitim ve açık öğretim programlarının kontenjan
+(c) Başka bir yükseköğretim kurumunda örgün eğitim, uzaktan eğitim ve açık öğretim programlarının kontenjan
 sınırlaması olan birimlerinde, aynı öğrenim süreli eşdeğer diploma programlarından birine kayıtlı olmamak.
 
 (2) Kayıt işlemleri, ÖSYM ve Üniversite tarafından belirlenen tarihler arasında ve ilan edilen esaslara göre
@@ -87,8 +53,6 @@ kayıt haklarını kaybeder.
 belgeler istenebilir. Özel yetenek sınavı sonucu ile öğrenci alan birimlere ilan edilen gün ve saatte kesin kaydını
 yaptırmayan aday öğrenciler, kayıt haklarını kaybederler ve yerlerine yedek adaylar alınır.
 
-
---- Sayfa 2 ---
 (4) Zorunlu yabancı dil hazırlık programı olan birimlere kayıt yaptıran öğrenciler, akademik takvimde belirtilen
 tarihlerde Yabancı Diller Yüksekokulu tarafından düzenlenen yeterlik/seviye tespit sınavına alınırlar. Bu sınavda
 başarılı olan öğrenciler ile yabancı dil yeterlilikleri Senato esaslarına göre kabul edilen öğrenciler ilgili programın
@@ -102,15 +66,11 @@ sınavda sahtecilik yaptığı belirlenen kişinin kaydı, kayıt tarihi itibar�
 Bu kişi Üniversiteden ayrılmışsa kendisine verilen diploma dâhil tüm belgeler iptal edilir. Bu kişinin yatırmış olduğu
 öğrenci katkı payı ve/veya öğrenim ücretleri geri ödenmez. Kayıt için sunulan belgelerde eksiklik veya tahrifat
 olduğunun belirlenmesi veya aynı öğrenim süreli başka bir örgün yükseköğretim programına (aynı anda iki ön lisans ya
-da iki lisans programına) kayıtlı olunması hâlinde, kesin kayıt yapılmış olsa bile kayıt iptal edilir.
+da iki lisans programın(a) kayıtlı olunması hâlinde, kesin kayıt yapılmış olsa bile kayıt iptal edilir.
 
-(7) Yabancı uyruklular ile orta öğreniminin tamamını yurt dışındaki bir eğitim kurumunda tamamlayan Türkiye
-
-Cumhuriyeti vatandaşlarının öğrenci olarak kabulüne ilişkin esaslar, ilgili mevzuat hükümlerine göre Senato tarafından
-belirlenir.
+(7) Yabancı uyruklular ile orta öğreniminin tamamını yurt dışındaki bir eğitim kurumunda tamamlayan Türkiye Cumhuriyeti vatandaşlarının öğrenci olarak kabulüne ilişkin esaslar, ilgili mevzuat hükümlerine göre Senato tarafından belirlenir.
 
 Yatay ve dikey geçişler
-
 MADDE 5- (1) Yatay geçişler; 24/4/2010 tarihli ve 27561 sayılı Resmi Gazete*de yayımlanan Yükseköğretim
 Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası
 Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik ve Senato tarafından belirlenen hükümlere göre yapılır.
@@ -120,19 +80,16 @@ ve Açıköğretim Ön Lisans Programları Mezunlarının Lisans Öğrenimine De
 ve YÖK kararlarına göre yapılır. Dikey geçiş işlemleri ile ilgili esaslar Senato tarafından belirlenir.
 
 Özel öğrencilik
-
 MADDE 6-(1) Üniversite öğrencilerinin diğer yükseköğretim kurumlarından, diğer yükseköğretim kurumu
 öğrencilerinin Üniversite programlarından özel öğrenci olarak ders alması; ilgili mevzuat hükümleri, YÖK ve Senato
 kararları ile belirlenir.
 
 Kimlik kartı
-
 MADDE 7- (1) Üniversiteye kesin kayıt yaptıran öğrenciye fotoğraflı öğrenci kimlik kartı verilir. Özel öğrenci
 ile değişim programları kapsamında kabul edilen öğrenciye misafir öğrenci kimlik kartı verilir. Üniversiteden ayrılan,
 çıkarılan, kaydı silinen veya mezun olan öğrenciler kimlik kartlarını iade etmek zorundadır.
 
 Akademik danışmanlık ve uyum eğitimi
-
 MADDE 8- (1) Yeni kayıt yaptıran her öğrenciye, ilgili bölüm/program başkanlığının önerisi ve bölüm/program
 kurulu kararıyla akademik danışman görevlendirilir. Danışmanın nitelikleri ile görev, yetki ve sorumlulukları Senato
 tarafından belirlenir.
@@ -141,7 +98,6 @@ tarafından belirlenir.
 düzenlenir.
 
 Muafiyet
-
 MADDE 9-(1) Üniversiteye yeni kayıt yaptıran öğrenciler, daha önce kayıtlı bulundukları yükseköğretim
 kurumunda başarmış oldukları dersler için Üniversiteye kesin kayıt yaptırdıkları eğitim-öğretim yılının başlamasından
 itibaren en geç bir ay içinde bir defaya mahsus muafiyet talebinde bulunabilirler. Bu süre dışındaki başvurular dikkate
@@ -156,9 +112,7 @@ birim yönetim kurulu karar verir.
 
 ÜÇÜNCÜ BÖLÜM
 Eğitim-Öğretime İlişkin Esaslar
-
 Öğretim türü, yılı ve akademik takvim
-
 MADDE 10- (1) Üniversiteye bağlı birimlerde birinci ve ikinci öğretim olmak üzere örgün öğretim yapılır.
 Ayrıca ilgili birim kurulunun gerekçeli önerisi, Senato kararı ve YÖK onayı ile açık, uzaktan ve yaygın öğretim de
 yapılabilir.
@@ -168,8 +122,6 @@ Gerekli hâllerde bu süre Senato tarafından uzatılabilir. Akademik takvimde b
 öğretim ve sınav yapılmaz. Gerekli görüldüğü takdirde dersler ve bunların sınavları ile alan çalışmaları ve uygulamalar,
 ilgili birimin yönetim kurulu kararıyla cumartesi ve pazar günleri ile mesai saatleri dışında da yapılabilir.
 
-
---- Sayfa 3 ---
 (3) Yaz okulu eğitimi yapılıp yapılmamasına, her yıl Nisan ayı içinde Senato tarafından karar verilir ve bu
 eğitimler 22/7/2015 tarihli ve 29422 sayılı Resmi Gazete'de yayımlanan Fırat Üniversitesi Yaz Okulu Yönetmeliği
 hükümlerine göre yürütülür.
@@ -178,7 +130,6 @@ hükümlerine göre yürütülür.
 bağlanarak ilan edilir. Akademik takvime ilişkin esaslar Senato tarafından belirlenir.
 
 Eğitim-öğretim süresi
-
 MADDE 11-(1) Öğrenciler, bir yıl süreli yabancı dil hazırlık sınıfı hariç kaydoldukları programa ilişkin
 derslerin verildiği dönemden başlamak üzere, her dönem için kayıt yaptırıp yaptırmadıklarına bakılmaksızın normal
 öğrenim süresi iki yıl olan ön lisans programlarını azami dört yıl; lisans programlarından normal öğrenim süresi dört yıl
@@ -197,7 +148,6 @@ Hakkında Yönetmelik hükümlerine göre yapılır.
 göre işlem yapılır.
 
 Öğretim programları ve öğretim dili
-
 MADDE 12- (1) Üniversitede öğretim; öğrenci merkezli, ders geçme esasına dayalı ve AKTS sistemine göre
 düzenlenir.
 
@@ -220,7 +170,6 @@ esaslar ilgili birim kurulunca belirlenir.
 birim kurullarınca belirlenen esaslara göre yapılır.
 
 Yabancı dil hazırlık programı
-
 MADDE 13-(1) Yabancı dille öğretim yapılan programlarda dersler, sınav uygulamaları ve diğer
 hususlar 23/3/2016 tarihli ve 29662 sayılı Resmi Gazete? de yayımlanan Yükseköğretim Kurumlarında Yabancı Dil
 Öğretimi ve Yabancı Dille Öğretim Yapılmasında Uyulacak Esaslara İlişkin Yönetmelik hükümlerine ve Senato
@@ -233,46 +182,36 @@ dilden muafiyet veya yabancı dil hazırlık programını başarıyla tamamlama 
 göre yürütülür.
 
 Uzaktan eğitim programı
-
 MADDE 14- (1) Uzaktan eğitim; eğitim-öğretimin her düzeyinde bilgi ve iletişim teknolojileri kullanılarak
 zamandan ve mekândan bağımsız gerçekleştirilen, öğrenci ile öğretim elemanının aynı mekânda bulunmasını
 gerektirmeyen eğitim türüdür. Bu program, ilgili mevzuat hükümleri ve Senato kararları doğrultusunda yürütülür.
 
 Çift anadal programı
-
 MADDE 15-(1) Öğrenciler, kayıtlı oldukları programa ek olarak, ilgili mevzuat hükümlerine göre
 Üniversitenin eş düzeydeki başka bir programına da kayıt yaptırabilir. Bu ikinci programa çift anadal programı denir.
 Bu programı tamamlayan öğrencilere, kayıtlı oldukları program diplomasına ek olarak çift anadal diploması verilir.
 Çift anadal programlarına ilişkin esaslar Senato tarafından belirlenir.
 
 Yan dal programı
-
 MADDE 16- (1) Üniversitede bir lisans programına kayıtlı olan öğrenciler, bu lisans programına ek olarak
 Üniversitenin diğer bir lisans programının belirli sayıda dersinden veya belirli sayıda disiplinlerarası dersten oluşan bir
 yan dal programına kayıt yaptırabilir. Yan dal programı bir diploma programı değildir. Bu programı tamamlayan
 öğrencilere bir sertifika verilir. Yan dal programlarına ilişkin esaslar Senato tarafından belirlenir.
 
-
-
---- Sayfa 4 ---
 Uluslararası ortak programlar
-
 MADDE 17-(1) Yurt dışındaki yükseköğretim kurumları ile uluslararası ortak programlar açılabilir.
 Uluslararası ortak programlar, ilgili mevzuat hükümleri ve Senato tarafından belirlenen esaslara göre yürütülür.
 
 Değişim programları
-
 MADDE 18-(1) Karşılıklı anlaşmalar çerçevesinde yurt içi veya yurt dışı yükseköğretim kurumları arasında
 değişim programları düzenlenebilir. Değişim programları, ilgili mevzuat hükümlerine ve Senato tarafından belirlenen
 esaslara göre yürütülür.
 
 Sertifika programları
-
 MADDE 19- (1) Sertifika programlarının açılması ve yürütülmesine ilişkin esaslar ilgili mevzuat hükümlerine
 göre Senato tarafından belirlenir.
 
 Dersler ve kredi değerleri
-
 MADDE 20-(1) Dersler, zorunlu ve seçmeli olmak üzere iki gruba ayrılır. Zorunlu dersler, programda
 tanımlanmış ve alınması zorunlu olan derslerdir. Seçmeli dersler ile ilgili esaslar Senato tarafından belirlenir.
 
@@ -303,7 +242,6 @@ esaslar Senato tarafından belirlenir.
 uygulanacak esaslar Senato tarafından belirlenir.
 
 Kayıt yenileme, ders alma ve azami ders yükü
-
 MADDE 21-(1) Öğrenci, öğretim programında yer alan tüm zorunlu dersler ile öngörülen kredideki seçmeli
 dersleri almak ve başarmakla yükümlüdür. Engelli öğrenciler için uygulanacak istisnalar Senato tarafından belirlenir.
 
@@ -330,15 +268,10 @@ yarıyıl uygulanmaz.
 (6) GNO'su 3,00 olan öğrenci, kayıtlı olduğu yarıyılın azami ders yükünü aşmayacak şekilde ve danışmanının
 onayı ile üst yarıyıldan dersler alabilir.
 
-(7) Seçmeli bir dersi tekrarlama durumunda olan öğrenci, daha sonraki yarıyıllarda veya yıllarda eşdeğer başka
-bir seçmeli ders alabilir.
+(7) Seçmeli bir dersi tekrarlama durumunda olan öğrenci, daha sonraki yarıyıllarda veya yıllarda eşdeğer başka bir seçmeli ders alabilir.
 
-
-
---- Sayfa 5 ---
 (8) Öğrenci, başarısız olduğu dersin öğretim programından kaldırılması hâlinde, bu dersin yerine konulan dersi,
-yerine konulan ders yoksa mezun olabilmek için gerekli toplam krediyi tamamlamak üzere başka ders ve/veya dersler
-alır.
+yerine konulan ders yoksa mezun olabilmek için gerekli toplam krediyi tamamlamak üzere başka ders ve/veya dersler alır.
 
 (9) Öğrenci, Senato tarafından belirlenen esaslar çerçevesinde Üniversitenin diğer birimlerinden de ders alabilir.
 
@@ -357,7 +290,6 @@ onaylanır.
 danışman öğretim elemanının sorumluluğundadır.
 
 Devam mecburiyeti
-
 MADDE 22-(1) Öğrenci, ilk kez aldığı veya devamsızlığı nedeniyle tekrarlayacağı teorik derslerin en az
 o70'ine, teorik ders dışındaki her türlü uygulama çalışmasının en az 080'ine devam etmek zorundadır.
 
@@ -369,7 +301,6 @@ tarafından en az iki yıl süreyle saklanır. Belgelerin saklanması ve imhası
 (3) Sağlık raporu olan öğrencinin raporlu geçirdiği süre, devamsızlık süresinden sayılır.
 
 Dersten çekilme
-
 MADDE 23- (1) Öğrenci, üçüncü yarıyıldan itibaren danışmanının onayını alarak akademik takvimde belirtilen
 süreler içerisinde tekrarlamak zorunda olduğu dersler hariç kayıt yaptırdığı dersleri değiştirebilir ya da asgari kredi
 şartını sağlamak koşuluyla derslerden tümüyle çekilebilir.
@@ -378,10 +309,7 @@ süreler içerisinde tekrarlamak zorunda olduğu dersler hariç kayıt yaptırd�
 çerçevesinde yapılır.
 
 DÖRDÜNCÜ BÖLÜM
-Sınavlar, Değerlendirme ve Mezuniyet
-
 Sınavlar
-
 MADDE 24- (1) Sınavlar, birimler tarafından hazırlanan ve en az on beş gün önce ilan edilen programa göre
 belirlenen zaman ve yerlerde yapılır. Ancak ara sınav yerine geçen bazı dönem içi etkinlikler, belirli bir sınav programına
 ve ilana bağlı olmadan da yapılabilir. Gerek görüldüğünde sınavlar, mesai saatleri dışında veya milli ve dini bayramlar
@@ -417,17 +345,13 @@ ekleyerek yarıyıl sonu sınavları bittikten sonra bir hafta içerisinde böl�
 (9) Öğrenciler, sınavlara girmek için öğrenci kimlik kartlarını ibraz etmek zorundadır. Kulaklık, cep telefonu,
 kablosuz iletişim sağlayan cihazlar ve benzeri iletişim araçları ile sınav salonuna girilmesi yasaktır.
 
-
---- Sayfa 6 ---
 (10) Sınavlar, o dersi vermekle görevli öğretim elemanları tarafından fiilen yapılır. Görevli öğretim
 elemanlarının sınav döneminde Üniversitede bulunamaması hâlinde sınavın kimin tarafından yapılacağı ve
 değerlendirileceği, ilgili bölüm/program başkanının önerisi ve ilgili birimin yönetim kurulunca kararlaştırılır.
 
-(11) Sınavların düzenli biçimde yürütülebilmesi için ilgili birimdeki bütün öğretim elemanları
-görevlendirilebilir.
+(11) Sınavların düzenli biçimde yürütülebilmesi için ilgili birimdeki bütün öğretim elemanları görevlendirilebilir.
 
 Ara sınavlar
-
 MADDE 25- (1) İlgili birim yönetim kurulunca aksi yönde karar alınan dersler hariç, her ders için akademik
 takvimde ilan edilen tarihler arasında en az bir ara sınav yapılır. Öğrencinin bir dersin ara sınavlarına girebilmesi için o
 derse kayıtlı olması gerekir. Ara sınav tarihlerine kadar devamsızlıktan kalması kesinleşen öğrenci ara sınavlara giremez,
@@ -443,7 +367,6 @@ ortalaması buna göre hesaplanır.
 (5) Ara sınavlara girilmemesi, yarıyıl sonu sınavlarına katılmaya engel değildir.
 
 Mazeret sınavları
-
 MADDE 26-(1) Mazeret sınavı, ilgili birim tarafından ilan edilen tarihlerde Rektörlük tarafından
 görevlendirilen veya Senato tarafından belirlenen mazeretleri nedeniyle ara sınavlara katılamayan öğrenciler için yapılır.
 Öğrenci; mazeret belgesini bir dilekçe ekinde, ilgili bölüm/program başkanlığına, bu başkanlıkların bulunmadığı
@@ -456,25 +379,16 @@ yarıyılda dersten sorumlu öğretim elemanı tarafından her ders için bir de
 ara sınav sayısı kadar mazeret sınavı yapılır.
 
 Genel sınavlar
-
 MADDE 27- (1) Genel sınavlar akademik takvimde belirtilen tarihler arasında yapılır.
-
 (2) Öğrencinin, bir dersin genel sınavına girme hakkı kazanabilmesi için;
-
-a) Derse kayıtlı olması,
-
-b) Teorik derslerin en az 9070”ine, uygulamalı derslerde uygulamaların en az 9080'ine katılmış olması,
-
-c) Öğretim üyesinin ders için belirlediği ve yarıyıl başında ilan ettiği koşulları sağlamış olması,
-
-gerekir.
+(a) Derse kayıtlı olması,
+(b) Teorik derslerin en az 9070”ine, uygulamalı derslerde uygulamaların en az 9080'ine katılmış olması,
+(c) Öğretim üyesinin ders için belirlediği ve yarıyıl başında ilan ettiği koşulları sağlamış olması, gerekir.
 
 (3) Genel sınava girme hakkı kazanamayan öğrenci, ilgili dersten devamsız sayılır.
-
 (4) Genel sınav için mazeret sınavı açılmaz.
 
 Bütünleme sınavları
-
 MADDE 28- (1) Bütünleme sınavına girebilme şartları ve başarı notu, genel sınava girebilme şartları ile aynıdır.
 
 (2) Öğrencilere, genel sınavda girmediği ya da başarısız olduğu (FF notu aldığı) dersler için her yarıyılın sonunda
@@ -489,16 +403,13 @@ yarıyıl sonu notu yerine geçer.
 (5) Bütünleme sınavı için mazeret sınavı açılmaz.
 
 Mezuniyet sınavı
-
 MADDE 29- (1) Mezuniyet sınavına ilişkin esaslar Senato tarafından belirlenir.
 
 Muafiyet sınavı
-
 MADDE 30-(1) Muafiyet sınavı, Üniversiteye yeni kayıt yaptıran öğrencilere ortak zorunlu yabancı dil
 dersinden muaf olmaları için akademik takvimde ilan edilen tarihte yapılır.
 
 Değerlendirme ve notlar
-
 MADDE 31-(1) Bir dersin başarı notu; bağıl değerlendirme sistemi ya da öğretim elemanının takdiri
 kullanılarak belirlenir.
 
@@ -509,87 +420,52 @@ sınırı (YSAS) ile ilgili esaslar Senato tarafından belirlenir.
 için öğrencinin yarıyıl sonu sınav notunun en az YSAS değerinde olması gerekir. Bu puanın altında kalan öğrenciler
 doğrudan başarısız sayılır.
 
-
-
---- Sayfa 7 ---
 (4) Bağıl değerlendirme sistemi ile değerlendirilemeyecek dersler için yarıyıl sonu ham başarı notlarının
 dağılımı kullanılarak başarı derecelerinin karşılığı harf notları, Senato tarafından 100 puan üzerinden oluşturulan
 tablodan dersi veren öğretim elemanının takdiri ile belirlenir.
 
-(5) Bir dersin başarı notu, Senato tarafından belirlenen esaslara göre; aşağıda belirtilen harfli başarı notu ve
-başarı katsayısına dönüştürülür:
-
-Başarı Notu Başarı Katsayı Açıklama
-
-AA 4,00 Başarılı
-
-BA 3,50 Başarılı
-
-BB 3,00 Başarılı
-
-CB 2,50 Başarılı
-
-CC 2,00 Başarılı
-
-DC 1,50 Koşullu Başarılı
-DD 1,00 Koşullu Başarılı
-FF 0,00 Başarısız
+(5) Bir dersin başarı notu, Senato tarafından belirlenen esaslara göre değerlendirilerek harfli başarı notuna ve buna karşılık gelen başarı katsayısına dönüştürülür. Bu sistemde, öğrencinin aldığı harf notları belirli katsayılarla eşleştirilir ve bu katsayılara karşılık gelen başarı durumu açıklanır.
+AA harf notu en yüksek başarı düzeyini ifade eder ve başarı katsayısı 4.00’dır. BA notu 3.50, BB notu 3.00, CB notu 2.50 ve CC notu 2.00 başarı katsayısıyla tanımlanır. Bu notların tamamı "başarılı" olarak değerlendirilir.
+DC ve DD harf notları sırasıyla 1.50 ve 1.00 katsayısına sahiptir ve "koşullu başarılı" anlamına gelir. Bu notlar, öğrencinin dersi sınırlı başarı ile geçtiğini gösterir.
+FF harf notu ise 0.00 katsayısı ile değerlendirilir ve "başarısız" olarak tanımlanır. Bu not, öğrencinin dersten kaldığını ve dersi tekrar alması gerektiğini ifade eder.
 
 (6) Başarı notu olarak kullanılan harf notları aşağıdaki gibi tanımlanır:
-
-a) Bir dersten AA, BA, BB, CB veya CC notlarından birini almış olan öğrenci o dersi başarmış sayılır.
-
-b) Bir dersten DC veya DD notlarından birini almış olan öğrenci o dersi koşullu başarmış sayılır.
-
-c) Bir dersten FF notu alan öğrenci o dersi başaramamış sayılır.
-
-ç) M notu (muaf sayma); bir yükseköğretim kurumundan yatay geçişle kabul edilen veya ÖSYM tarafından
+(a) Bir dersten AA, BA, BB, CB veya CC notlarından birini almış olan öğrenci o dersi başarmış sayılır.
+(b) Bir dersten DC veya DD notlarından birini almış olan öğrenci o dersi koşullu başarmış sayılır.
+(c) Bir dersten FF notu alan öğrenci o dersi başaramamış sayılır.
+(ç) M notu (muaf saym(a); bir yükseköğretim kurumundan yatay geçişle kabul edilen veya ÖSYM tarafından
 yapılan sınava girerek yeniden kayıt hakkı kazanan öğrencilerin ilgili programa intibaklarında daha önce yükseköğretim
 programlarından almış oldukları ve ilgili birim yönetim kurulu kararı ile başarılı sayıldıkları dersler için kullanılır.
-
-d) B notu, değerlendirmesi not ile yapılmayan ve başarılı kabul edilen dersler için kullanılır.
-
-e) Başarı notu belirtilmeyip M ve B olarak gösterilen dersler, GNO”nun hesabında değerlendirmeye katılmaz.
-
-# D notu, derse devam yükümlülüklerini yerine getirmeyen öğrencilere verilir ve GNO hesabında FF notu gibi
+(d) B notu, değerlendirmesi not ile yapılmayan ve başarılı kabul edilen dersler için kullanılır.
+(e) Başarı notu belirtilmeyip M ve B olarak gösterilen dersler, GNO”nun hesabında değerlendirmeye katılmaz.
+(f) D notu, derse devam yükümlülüklerini yerine getirmeyen öğrencilere verilir ve GNO hesabında FF notu gibi
 işlem görür. D notu ile değerlendirilen dersler verildiği ilk yarıyıl tekrar alınır.
-
-g) Değerlendirmesi not ile yapılmayan bir dersten başarısız olan öğrenciye K notu verilir ve o dersi verildiği ilk
-yarıyılda tekrarlar.
-
-&) G notu (girmedi), sınavlara girme hakkı olduğu halde girmeyen öğrencilere verilir.
+(g) Değerlendirmesi not ile yapılmayan bir dersten başarısız olan öğrenciye K notu verilir ve o dersi verildiği ilk yarıyılda tekrarlar.
+(ğ) G notu (girmedi), sınavlara girme hakkı olduğu halde girmeyen öğrencilere verilir.
 
 Not ortalamaları
-
 MADDE 32-(1) Öğrencilerin başarı durumları; derslerden almış oldukları başarı notlarının katsayıları ve
 derslerin kredileri ile hesaplanan dönem not ortalaması ve GNO değerleriyle izlenir.
-
 (2) Dönem not ortalaması; bir yarıyılda alınan derslerin her birinin kredisi ile bu derslerden alınan başarı
 notlarının katsayılarının çarpımları toplamının aynı derslerin kredi toplamına bölünmesiyle elde edilir.
-
 (3) GNO; öğrencinin Üniversiteye girişinden itibaren tamamladığı yarıyıl itibarıyla almış olduğu tüm dersler ve
 o derslerden almış olduğu geçerli son notlar dikkate alınarak ikinci fıkrada belirtilen şekilde hesaplanır.
-
 (4) Not ortalamalarının hesaplanmasında uygulanacak esaslar Senato tarafından belirlenir.
 
 Genel not ortalamasının yükseltilmesi
-
 MADDE 33- (1) GNO'sunu yükseltmek isteyen başarılı öğrenciler, daha önce aldıkları ve başarılı oldukları
 dersleri o derslerin verildiği yarıyılda tekrarlayabilir. Tekrarlanan derste öğrencinin aldığı en son not geçerlidir.
 
 Başarılı öğrencilerin takdir edilmesi
-
 MADDE 34-(1) Başarıları nedeniyle takdir edilecek öğrencilerde aranan nitelikler ve bunlara verilecek
 belgelere dair esaslar Senato tarafından belirlenir.
 
 Sınamalı öğrenciler
-
 MADDE 35-(1) Lisans programlarında, beş veya altıncı yarıyıllardan ders alacak öğrencinin ilk dört
 yarıyıl GNO'sunun en az 1,80 olması gerekir. Bu şartı sağlayamayan öğrenciler yeni ders alamazlar, öncelikle başarısız
 oldukları alt yarıyıl derslerini tekrar ederler.
 
 Sınav sonuçlarının ilanı ve itiraz
-
 MADDE 36- (1) Genel sınav ve bütünleme sınavı sonuçları, ilgili sınav döneminin bitimini izleyen en geç üç iş
 günü içinde OBS”ye girilir.
 
@@ -599,17 +475,12 @@ yazılı olarak iletirler.
 
 (3) İtiraz edilen sınav evrakı, bölüm başkanı ve sınavı yapan öğretim elemanı tarafından incelenir. Gerektiğinde
 bölüm başkanı, bölüm kurulu kararı ile biri dersi okutan öğretim elemanı olması koşuluyla ilgili bölüm öğretim
-
-
-
---- Sayfa 8 ---
 elemanlarından en az üç kişilik komisyon kurarak sınav evrakını inceletebilir. Sınav evrakında maddi hata varsa itiraz,
 ilgili birim yönetim kurulunda karara bağlanır.
 
 (4) Öğrencinin itirazı bir hafta içerisinde sonuçlandırılır.
 
 Kopya ve intihal
-
 MADDE 37- (1) Öğrencinin sınavlarda ve diğer değerlendirme etkinliklerinde (ödev, rapor, proje ve benzeri)
 kopya çektiği, kopyaya teşebbüs ettiği, intihal yaptığı veya 2547 sayılı Kanunun 54 üncü maddesinde yer alan benzer
 ihlallerde bulunduğu yönünde kuvvetli şüphe veya delil elde edilirse hakkında disiplin soruşturması açılır. Soruşturma
@@ -618,7 +489,6 @@ bulunan öğrencinin sınavı değerlendirilir ya da telafi sınavı veya telafi
 öğrenciye aldığı disiplin cezasının yanı sıra, söz konusu sınav veya değerlendirme etkinliğinden sıfır notu verilir.
 
 Mezuniyet
-
 MADDE 38-(1) Öğrencinin kayıtlı olduğu diploma programından mezun olabilmesi için ilgili öğretim
 programındaki bütün dersleri, uygulamaları, proje, laboratuvar, seminer, bitirme projesi, iş yeri eğitimi, uygulama
 
@@ -628,7 +498,6 @@ düşük olan öğrenciler, öncelikle koşullu başarılı oldukları (DD veya 
 alarak GNO”sunu en az 2,00 değerine yükseltmek zorundadır.
 
 Diploma ve sertifikalar
-
 MADDE 39- (1) Ön lisans, lisans, çift anadal programları ile ilişkili diplomalar ve yan dal eğitimleri sonunda
 verilecek sertifikalara ilişkin hususlar Senato tarafından belirlenir.
 
@@ -637,46 +506,35 @@ Disiplin, Engelli Öğrenciler, Katkı Payı ve Ücretler,
 İzinli Sayılma, Kayıt Sildirme ve İlişik Kesme
 
 Disiplin
-
 MADDE 40-(1) Öğrencilerin disiplin işlemleri 2547 sayılı Kanunun 54 üncü maddesi hükümlerine göre
 yürütülür.
 
 Engelli öğrenciler
-
 MADDE 41-(1) Engellilik durumu ve derecesi mevzuata uygun sağlık raporu ile tespit edilmiş öğrencilere,
 engel durumları dikkate alınarak ilgili birim yönetim kurulu kararıyla özel eğitim-öğretim programı ve sınav yöntemleri
 uygulanabilir. Bu uygulama ile ilgili esaslar Senato tarafından belirlenir.
 
 Katkı payı, öğrenim ücreti ve diğer ücretler
-
 MADDE 42-(1) Kayıtlı olduğu program gereği katkı payı/öğrenim ücreti ödemesi gereken öğrencilerin
 akademik takvimde belirtilen süreler içinde her eğitim-öğretim döneminde/yılında, ilgili mevzuatta belirlenen öğrenci
 katkı payını/öğrenim ücretini ödemeleri gerekir. Uluslararası öğrencilerin öğrenim ücretleri ile diğer ücretler ilgili
 mevzuat hükümlerine göre belirlenir.
 
 İzinli sayılma
-
 MADDE 43- (1) İzin; öğrencilerin ilgili akademik birimlerin onayı ile geçici bir süre için kayıtlı oldukları
 programa ara vermeleridir. İzin başvurusu yapılabilmesi için başvuru tarihinde öğrencinin kayıtlı veya izinli statüde
 olması zorunludur. İzinli öğrencilerin tüm hakları saklı tutulur. Hazırlanan belgelerde öğrencilerin izinli oldukları
 belirtilir. İlgili birim yönetim kurulu kararı ve YÖK tarafından tespit edilen haklı ve geçerli nedenler ile öğrenciye bir
 defada en çok iki yarıyıl, öğrenim süresi boyunca toplam olarak en çok dört yarıyıl süre ile izin verilebilir. Ancak
-rahatsızlığının ve tedavi sürecinin devam etmesi nedeniyle kayıt dondurma talebinde bulunan öğrenciler ile hüküm!
-
-E
-
-5
-
+rahatsızlığının ve tedavi sürecinin devam etmesi nedeniyle kayıt dondurma talebinde bulunan öğrenciler ile hükümlü
 öğrenciler için mazereti ilgili birim yönetim kurulu kararıyla azami öğrenim süresinden sayılmadan dört yarıyıldan faz
 kayıt dondurulabilir.
-(2) İzinli sayılan öğrenci, öğrenimine devam edemez ve izinli olduğu yarıyılı izleyen sınav dönemindeki yarıyıl
 
-sonu sınavlarına giremez.
+(2) İzinli sayılan öğrenci, öğrenimine devam edemez ve izinli olduğu yarıyılı izleyen sınav dönemindeki yarıyıl sonu sınavlarına giremez.
 
 (3) İzinli sayılma ile ilgili usul ve esaslar Senato tarafından belirlenir.
 
 Kayıt sildirme ve ilişik kesme
-
 MADDE 44-(1) Öğrenciler istedikleri takdirde Üniversite Öğrenci İşleri Daire Başkanlığına başvurarak
 kayıtlarını sildirebilirler. Öğrencinin Üniversiteden kaydının silinmesi hâlinde ödemiş olduğu katkı payları ve öğrenim
 ücretleri iade edilmez.
@@ -690,8 +548,6 @@ yerine getirmeleri zorunludur.
 programdan kayıt sildiren ve Üniversite ile ilişiği kesilen öğrenciler, Üniversitedeki tüm öğrencilik haklarını
 kaybederler.
 
-
---- Sayfa 9 ---
 ALTINCI BÖLÜM
 Çeşitli ve Son Hükümler
 
@@ -706,19 +562,15 @@ ve/veya Üniversite tarafından sağlanan e-posta adresine gönderilerek yapıl�
 Başkanlığının internet sayfasından yapacağı duyuruları izlemekle yükümlüdür.
 
 Hüküm bulunmayan hâller
-
 MADDE 46-(1) Bu Yönetmelikte hüküm bulunmayan hâllerde, ilgili diğer mevzuat hükümleri ile YÖK ve
 Senato kararları uygulanır.
 
 Yürürlükten kaldırılan yönetmelik
-
 MADDE 47- (1) 3/7/2013 tarihli ve 28696 sayılı Resmi Gazete'de yayımlanan Fırat Üniversitesi Önlisans ve
 Lisans Eğitim-Öğretim Yönetmeliği yürürlükten kaldırılmıştır.
 
 Yürürlük
-
 MADDE 48- (1) Bu Yönetmelik 2024-2025 eğitim-öğretim yılı başında yürürlüğe girer.
 
 Yürütme
-
 MADDE 49- (1) Bu Yönetmelik hükümlerini Fırat Üniversitesi Rektörü yürütür.

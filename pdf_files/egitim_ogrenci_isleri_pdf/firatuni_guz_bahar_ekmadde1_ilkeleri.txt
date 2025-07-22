@@ -1,8 +1,4 @@
-
-
---- Sayfa 1 ---
 GÜZ VE BAHAR DÖNEMİ EK MADDE 1 UYGULAMA İLKELERİ
-
 Yükseköğretim Kurumlarında Ön Lisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal,
 Yan Dal ile Kurumlararası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmeliğin Ek Madde 1 uyarınca
 yapılacak yatay geçiş işlemlerinde güz ve bahar dönemi için yükseköğretim kurumları tarafından
@@ -10,18 +6,13 @@ yürütülecek işlemlere ilişkin usul ve esaslar
 
 A. GÜZ BAŞVURULARINA İLİŞKİN USUL VE ESASLAR
 
-1. Öğrenci Seçme ve Yerleştirme Sistemi Yükseköğretim Programları ve Kontenjanları Kılavuzunda(
-ÖSYS) Yükseköğretim Kurumları Sınavı (YKS) Kılavuzunda yer alan;
+1. Öğrenci Seçme ve Yerleştirme Sistemi Yükseköğretim Programları ve Kontenjanları Kılavuzunda(ÖSYS) Yükseköğretim Kurumları Sınavı (YKS) Kılavuzunda yer alan;
 
-a) Ülkemizdeki ve KKTC'deki yükseköğretim kurumlarına merkezi yerleştirme veya ilgili yılın ÖSYS/YKS
+(a) Ülkemizdeki ve KKTC'deki yükseköğretim kurumlarına merkezi yerleştirme veya ilgili yılın ÖSYS/YKS
 Puanına ve özel yetenek sınavı ile kayıt yaptırmış adaylar ile
-
-b) Yurt dışındaki yükseköğretim kurumlarına ÖSYM tarafından merkezi yerleştirme ile yerleştirilerek kayıt
-yaptıran adayların
-
-başvuru yapabileceğine,
-
-©) ÖSYS/YKS Kılavuzunda yer almayan yurt dışındaki diğer yükseköğretim kurumlarına veya söz konusu
+(b) Yurt dışındaki yükseköğretim kurumlarına ÖSYM tarafından merkezi yerleştirme ile yerleştirilerek kayıt
+yaptıran adayların başvuru yapabileceğine,
+(c) ÖSYS/YKS Kılavuzunda yer almayan yurt dışındaki diğer yükseköğretim kurumlarına veya söz konusu
 kılavuzda yükseköğretim kurumu yer alsa bile Kılavuzda kayıtlı olduğu programı yer almayarak kayıt
 yaptırmış adayların başvuramayacağına, (ÖSYS/YKS Puanı ile Öğrenci Seçme ve Yerleştirme Sistemi
 Yükseköğretim Programları ve Kontenjanları Kılavuzunda yer alan bir yükseköğretim programına yerleşen,
@@ -60,9 +51,6 @@ olduğu yılın güz döneminde başvuru yapamamasına, (Öğrencilerin tercihle
 yükseköğretim kurumlarında eğitime başlayarak, ilgili yükseköğretim programına ve yükseköğretim
 kurumuna intibak sürecini geçirdikten sonra, yatay geçiş sürecinin mantığına uygun olarak diğer
 yükseköğretim programlarına geçiş için başvuruda bulunmalarının daha faydalı olacağı hususu göz önüne
-
-
---- Sayfa 2 ---
 alınarak, ilgili yılda ÖSYS/YKS'de yerleşerek kayıt yaptıran öğrencilerin bir sonraki dönem/yılda yapılacak
 işlemler sırasında başvuru hakkı bulunmaktadır.)
 
@@ -122,8 +110,6 @@ puanına ilişkin bilgiye osym.gov.tr adresinde yer alan "ilgili yıla ait ÖSYS
 Programlarının Merkezi Yerleştirmedeki En Küçük ve En Büyük Puanlarına ilişkin" yayından
 ulaşılabilecektir)
 
-
---- Sayfa 3 ---
 16. Ek Madde | uyarınca yatay geçiş için başvuran öğrencilerin ÖSYS/YKS Kılavuzunda programa kayıt
 olabilmeleri için aranan özel koşulların bulunması durumunda, bu koşulları sağlamaları gerektiğine,
 
@@ -135,14 +121,13 @@ yerleştirme taban puanı oluşmadığından geçiş yapılamayacağına,
 yükseköğretim kurumu tarafından aradığı yabancı dil şartını sağlaması gerektiğine, kayıtlı olduğu
 programda iki yıl hazırlık sınıfı eğitimi almış olanların tekrar hazırlık sınıfı eğitimi alamayacağına,
 
-a) İlgili yükseköğretim kurumu tarafından aranan yabancı dil şartını sağlayamayan ve daha önce iki yıl
+(a) İlgili yükseköğretim kurumu tarafından aranan yabancı dil şartını sağlayamayan ve daha önce iki yıl
 hazırlık sınıfı eğitimi almamış öğrencilerin öğretim dili Türkçe programdan (örneğin İşletme (Türkçe)
 programından İşletme (İngilizce) programına geçişte) tamamen veya kısmen yabancı dilde eğitim yapan
 aynı isimli programlara en geç ikinci sınıf eğitimine başlamadan geçiş yapabileceklerine ve bu öğrencilerin
 yabancı dil hazırlık eğitimi alabileceklerine (daha önce bir yıl hazırlık sınıfı eğitimi almış olanların en fazla
 bir yıl hazırlık sınıfı eğitimi alabileceklerine),
-
-b) Öğretim dili Türkçe programdan farklı isimli (Fizyoterapi ve Rehabilitasyon (Türkçe) programından
+(b) Öğretim dili Türkçe programdan farklı isimli (Fizyoterapi ve Rehabilitasyon (Türkçe) programından
 Makine Mühendisliği (İngilizce) programına geçişte) tamamen veya kısmen yabancı dilde eğitim yapan
 programlara geçişte bu usul ve esaslardaki şartları sağlayan öğrencinin kayıtlı olduğu döneme bakılmaksızın
 geçiş yapabileceğine ve bu öğrencilerden ilgili yükseköğretim kurumu tarafından aranan yabancı dil şartını
@@ -171,7 +156,6 @@ merkezi yerleştirme puanlarının dikkate alınmasına, başarı vb. şart aran
 kurumlarının yetkisinde olduğuna
 
 B. BAHAR DÖNEMİ BAŞVURULARINA İLİŞKİN USUL VE ESASLAR
-
 Yükseköğretim kurumlarının planlamaları noktasında zaaf oluşmaması için sadece bahar dönemi için Ek
 Madde 1 uyarınca öğrenci alınıp alınmayacağının üniversitelerin yetkili kurulları tarafından karara
 bağlanması ve bahar döneminde öğrenci alacak yükseköğretim kurumlarının işlemleri aşağıdaki usul ve
@@ -183,11 +167,6 @@ başvuru yapabileceğine, ÖSYS/YKS Kılavuzlarında yer alan veya almayan yurt 
 yükseköğretim kurumlarına kayıt yaptırmış adayların başvuramayacağına, (ÖSYS/YKS Puanı ile Türkiye'de
 bir yükseköğretim programına yerleşen, ancak, kayıt yaptırmadan kendi imkanları ile yurtdışı
 yükseköğretim kurumlarına öğrenime başlayan veya ÖSYS/YKS'ye girip Türkiye'de herhangi bir
-
-3
-
-
---- Sayfa 4 ---
 yükseköğretim programını tercih etmeden, kendi imkanları ile yurtdışı yükseköğretim kurumlarında
 öğrenimlerine başlayan ve öğrenci statüsünde olanların adı geçen madde kapsamında başvuru
 yapamayacaklarına),
@@ -280,14 +259,14 @@ yerleştirme taban puanı oluşmadığından geçiş yapılamayacağına,
 yükseköğretim kurumu tarafından aradığı yabancı dil şartını sağlaması gerektiğine, kayıtlı olduğu
 programda iki yıl hazırlık sınıfı eğitimi almış olanların tekrar hazırlık sınıfı eğitimi alamayacağına,
 
-a) İlgili yükseköğretim kurumu tarafından aranan yabancı dil şartını sağlayamayan ve daha önce iki yıl
+(a) İlgili yükseköğretim kurumu tarafından aranan yabancı dil şartını sağlayamayan ve daha önce iki yıl
 hazırlık sınıfı eğitimi almamış öğrencilerin öğretim dili Türkçe programdan (örneğin İşletme (Türkçe)
 programından İşletme (İngilizce) programına geçişte) tamamen veya kısmen yabancı dilde eğitim yapan
 aynı isimli programlara en geç ikinci sınıf eğitimine başlamadan geçiş yapabileceklerine ve bu öğrencilerin
 yabancı dil hazırlık eğitimi alabileceklerine (daha önce bir yıl hazırlık sınıfı eğitimi almış olanların en fazla
 bir yıl hazırlık sınıfı eğitimi alabileceklerine),
 
-b) Öğretim dili Türkçe programdan farklı isimli (Fizyoterapi ve Rehabilitasyon (Türkçe) programından
+(b) Öğretim dili Türkçe programdan farklı isimli (Fizyoterapi ve Rehabilitasyon (Türkçe) programından
 Makine Mühendisliği (İngilizce) programına geçişte) tamamen veya kısmen yabancı dilde eğitim yapan
 programlara geçişte bu usul ve esaslardaki şartları sağlayan öğrencinin kayıtlı olduğu döneme bakılmaksızın
 geçiş yapabileceğine ve bu öğrencilerden ilgili yükseköğretim kurumu tarafından aranan yabancı dil şartını
@@ -311,10 +290,6 @@ yararlanabileceklerine,
 20. Başvuruların değerlendirilmesinde sadece öğrencinin kayıtlı olduğu programa yerleştiği yıldaki ÖSYM
 merkezi yerleştirme puanlarının dikkate alınmasına, başarı vb. şart aranmamasına,
 
-5
-
-
---- Sayfa 6 ---
 21. Söz konusu ilkeler uyarınca Vakıf yükseköğretim kurumlarına yatay geçiş işlemlerinde öğrencilerin
 ücretli programlara yatay geçiş yapabileceğine, burs verip vermeme kararının ilgili yükseköğretim
 kurumlarının yetkisinde olduğuna

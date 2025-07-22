@@ -1,13 +1,5 @@
-
-
---- Sayfa 1 ---
-
-FIRAT ÜNİVERSİTESİ MÜHENDİSLİK FAKÜLTESİ
-BİTİRME PROJESİ YÖNERGESİ
-
+FIRAT ÜNİVERSİTESİ MÜHENDİSLİK FAKÜLTESİ BİTİRME PROJESİ YÖNERGESİ
 BİRİNCİ BÖLÜM
-
-Amaç, Kapsam, Dayanak ve Tanımlar
 
 Kapsam
 
@@ -29,51 +21,38 @@ yeteneğinin kazandırılmasını, üniversite-sanayi iş birliğinin artırılm
 ürün ve yöntemlerin ilk adımlarının atılmasını sağlamaktır.
 
 Bitirme projesi dersinin açılması
-MADDE 3- (1) Bitirme projesi dersi, her öğretim yılının güz ve bahar yarıyıllarında açılır.
-
-Madde 4'de belirtilen koşulları sağlamak kaydıyla, öğrenciler bu dersi öncelikle bahar yarıyılında;
+MADDE 3- (1) Bitirme projesi dersi, her öğretim yılının güz ve bahar yarıyıllarında açılır. Madde 4'de belirtilen koşulları sağlamak kaydıyla, öğrenciler bu dersi öncelikle bahar yarıyılında;
 dönem kaybı veya tekrarlanma söz konusu olduğunda ise, güz yarıyılında alabilirler.
 
 Bitirme projesi alabilme koşulları
-
 MADDE 4- (1) Bir öğrencinin bitirme projesi alabilmesi için;
 
-a) Fırat Üniversitesi Ön lisans ve Lisans Eğitim-Öğretim Yönetmeliği'nin 35. Maddesindeki ders alma
+(a) Fırat Üniversitesi Ön lisans ve Lisans Eğitim-Öğretim Yönetmeliği'nin 35. Maddesindeki ders alma
 koşullarının sağlanması ve son sınıf öğrencisi olması gerekir.
 
-b) Bulunduğu yarıyılda veya bir sonraki yarıyılda mezun olabilecek durumda olması gerekir.
+(b) Bulunduğu yarıyılda veya bir sonraki yarıyılda mezun olabilecek durumda olması gerekir.
 
-c) Akreditasyona sahip / aday bölüm öğrencileri bitirme projesini alabilmesi için, disiplinler arası
+(c) Akreditasyona sahip / aday bölüm öğrencileri bitirme projesini alabilmesi için, disiplinler arası
 çalışma yapılacak derse katılmış ve başarmış olması gerekir. Eğer öğrenci disiplinler arası çalışma yapılacak
 dersten başarılı olamazsa öğrenci Bitirme Projesini, projenin disiplinler arası çalışma konusu içermesi şartıyla,
 alabilir.
 
-ç) Ulusal/Uluslararası disiplinler arası projelerde görev almış öğrenciler ilgili proje sonuç raporunu ve
+(ç) Ulusal/Uluslararası disiplinler arası projelerde görev almış öğrenciler ilgili proje sonuç raporunu ve
 yazısını bölümlerine teslim ettikleri durumda disiplinler arası çalışma yapılacak dersin yükümlülüğünü yerine
 getirmiş olurlar.
 
-Sayfa 1/3
-
-
---- Sayfa 2 ---
-FIRAT N www
-ÜNİVERSİTESİ Mühendislik Fakültesi Bitirme Projesi Yönergesi
-
 Bitirme projesi konularının belirlenmesi
-
 MADDE 5- (1) Anabilim dalları esas alınarak öğretim üyeleri/görevlilerince belirlenen bahar dönemi
 bitirme projesi konuları listesi, (en geç) güz döneminin ilk 15 günü süresince Bölüm Başkanlığınca ilan edilir.
 Bu listede anabilim dalı, öğretim üyesi/görevlisi ismi ve bitirme proje konuları yer alır. Bu liste Bölüm
 Başkanlıklarınca bitirme projesi ders dosyasında muhafaza edilmelidir.
 
 Başvuru
-
 MADDE 6-(1) Madde 3 ve 4 de belirtilen koşulları sağlayan öğrenciler, Bölüm Başkanlığından temin
 edecekleri form dilekçe ile güz döneminin 3. haftasının son mesai gününe kadar Bölüm Başkanlığına, bitirme
 proje danışmanlarının belirlenmesi için başvururlar.
 
 Bitirme projesi dağıtımı
-
 MADDE 7- (1) Bitirme projeleri ile ilgili müracaatların kabulü, anabilim dallarına, öğretim
 üyelerine/görevlilerine dağıtımı işlemleri, mümkün olduğu kadar öğrencilerin tercih sıralamaları da göz
 önünde bulundurularak, Bölüm Başkanlığınca yürütülür.
@@ -93,7 +72,6 @@ belirlenir. Bitirme projesi hazırlayacak öğrencilerin, dağıtım listesi ve 
 sayfasında ilan edilir.
 
 Uygulanması ve değerlendirilmesi
-
 MADDE 11- (1) Bitirme projesi danışmanı; projenin planlanması, proje çalışmalarının sürdürülmesi,
 bulguların yorumlanması gibi hususlarda öğrenciye rehberlik eder.
 
@@ -119,23 +97,13 @@ halinde Bölüm Başkanlığına teslim edilir.
 
 MADDE 13- (1) Öğrencinin bitirme projesi dersinden başarılı olabilmesi için projelerini, Bitirme
 Projesi Komisyonunca belirlenen ve önceden ilan edilen jüri önünde sunar. Jüri tarafından yapılacak sözlü
-
-Sayfa 2/3
-
-
---- Sayfa 3 ---
-FIRAT N www
-ÜNİVERSİTESİ Mühendislik Fakültesi Bitirme Projesi Yönergesi
-
 sınavda başarılı olması gerekir. Bitirme projelerinin sözlü sunumları Bölüm Başkanlığı tarafından belirlenen
 bir program çerçevesinde her yarıyılın genel sınav döneminin son haftasında yapılır. Bitirme projesinin jürisi
 bitirme projesi danışmanı ve konuya yakın iki öğretim üyesi veya görevlisi arasından seçilir.
 
-b) Jüri üyeleri, "Bitirme Projesi Değerlendirme Formu" nu doldurarak, yapılan çalışmayı değerlendirir.
+(b) Jüri üyeleri, "Bitirme Projesi Değerlendirme Formu" nu doldurarak, yapılan çalışmayı değerlendirir. Jüri Üyelerinin verdiği notların ortalaması, Genel/Bütünleme sınav notunu belirler,
 
-Jüri Üyelerinin verdiği notların ortalaması, Genel/Bütünleme sınav notunu belirler,
-
-c) Poster sunumları ve bu sunumların pdf dosyaları bahar döneminin 12. haftasının son günü mesai
+(c) Poster sunumları ve bu sunumların pdf dosyaları bahar döneminin 12. haftasının son günü mesai
 bitimine kadar Bölüm Başkanlığı'na teslim edilir. Bölüm Başkanlığı bahar döneminin 13.haftasında bu
 sunumları bölümde uygun bir mekânda sergiler ve bir komisyon marifetiyle ilk üçe giren bitirme projelerini
 tespit eder. Dereceye giren bitirme projelerine ait pdf dosyaları, Dekanlığa e-posta ile gönderilir.
@@ -146,23 +114,12 @@ başarı notları da yazılarak onaylandıktan sonra Bölüm Başkanlığı'na t
 onayından sonra bitirme projesinin bir nüshası bölüme, bir nüshası danışmana, bir nüshası da öğrenciye verilir.
 
 Yönergede Hükmü Bulunmayan Haller
-
 MADDE 16- (1) Bu Yönergede hüküm bulunmayan konularda Mühendislik Fakültesi Yönetim
 Kurulu karar almaya yetkilidir.
 
-Yürürlük
 MADDE 17- (1) Bu yönerge, Fırat Üniversitesi Senatosunca kabulünden sonra yürürlüğe girer.
-
 (2) Bu Yönergede bulunmayan hususlarda Rektör yetkilidir.
-
-Yürütme
 
 MADDE 18- (1) Bu Yönerge hükümlerini Fırat Üniversitesi Rektörü yürütür.
 
-Yönergenin Kabul Edildiği Senato Kararının Tarih ve Sayısı
-
-Tarih Sayı
-
-02.12.2024 2024-2025/4.19
-
-Sayfa 3/3
+Yönergenin Kabul Edildiği Senato Kararının Tarih ve Sayısı 02.12.2024 2024-2025/4.19

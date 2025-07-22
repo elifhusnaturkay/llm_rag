@@ -13,10 +13,11 @@ def answer_question(query):
         {
             'role': 'system',
             'content': (
-                'sana verilen ilgili bilgilerden yola cikarak kullanicinun sorusunu cevapla, '
-                'icerikte ilgili soru ile alakali bilgi gelmez ise bu konu hakkinda bilgim yok cevabini ver. '
-                'aksi takdirde kullaniciya mevzuattan yararlanarak cevaplarini ver. '
-                'kisa cevaplar vermen yeterli. '
+                'Sana verilen ilgili bilgilerden yola çıkarak kullanıcının sorusunu cevapla. '
+                'İçerikte soru ile alakalı bilgi gelmez ise "Bu konu hakkında bilgim yok." cevabını ver. '
+                'Aksi takdirde kullanıcıya mevzuattan yararlanarak cevaplarını ver. '
+                'Eğer cevap bir tablo içeriyorsa, tabloyu referans göstermek yerine içeriğini metin olarak açıkla. '
+                'Kısa ve net cevaplar vermen yeterli. '
                 'Konuşmanın geçmişini göz önünde bulundurarak cevap ver.'
             )
         }
@@ -27,7 +28,7 @@ def answer_question(query):
     messages.append({'role': 'user', 'content': f'### SORU ###\n{query}'})
 
     response: ChatResponse = chat(
-        model='deepseek-llm:7b',
+        model='gemma3:12b', #muadili olarak gemma3:12b-instruct
         messages=messages 
     )
 

@@ -1,38 +1,44 @@
-# Regulation-Aware Chatbot for Fırat University (RAG-based)
+# Regulation-Aware RAG Chatbot – Fırat University Internship Project
 
-This repository contains the implementation of a Retrieval-Augmented Generation (RAG) chatbot developed as part of a university software engineering internship project at the Fırat University Information Technology Department.
+This repository contains the implementation of a Retrieval-Augmented Generation (RAG) chatbot developed during a summer internship at the Fırat University IT Department.
 
-The chatbot is designed to assist users in querying institutional academic regulations (such as graduation requirements, credit systems, or course policies) by retrieving relevant segments from university documents and generating natural language answers. All operations are conducted locally using open-source tools and models.
+The chatbot is designed to answer user questions about Fırat University’s academic regulations by retrieving relevant document segments and generating context-aware responses. The system operates entirely offline, leveraging Ollama for both embedding and language model inference.
 
-## Project Scope
+---
 
-- Internship Period: Summer 2025  
-- Organization: Fırat University, IT Department  
-- Developer: Elif Hüsna Türkay, Software Engineering Student  
-- Project Type: Academic Information Assistant (Offline, LLM-integrated)  
+## System Architecture
 
-## Key Features
+- **Embedding Model**: `nomic-embed-text` (via Ollama)  
+- **Language Model**: `gemma3:12b-it` (via Ollama)  
+- **Database**: ChromaDB (local vector store)  
+- **Chunking**: 1000-character segments with 100-character overlap using LangChain
 
-- Fully offline, local-only architecture (no external APIs or cloud dependencies)
-- Document ingestion from structured academic texts in `.pdf`, `.docx`, or `.txt` format
-- Embedding of text chunks using Ollama-powered models (e.g., `mxbai-embed-large`)
-- Semantic search using ChromaDB
-- Answer generation with local LLMs (e.g., `deepseek-llm:7b`) via Ollama
-- Conversational memory: previous questions and answers are remembered and influence future responses
+---
 
-## Technologies Used
+## Improvements Over Previous Versions
 
-- Python 3.11
-- Ollama (for both embedding and language models)
-- ChromaDB (vector database)
-- LangChain (for recursive character-based text chunking)
-- PyPDF2, python-docx (for document parsing)
+- **Contextual Consistency**:  
+  Longer chunks with strategic overlap eliminated the fragmenting problem previously observed in retrieval.  
+  This led to a significant improvement in semantic relevance during inference.
 
-## File Structure
-project_root/
-├── pdf_files/ # Source document directory
-│ └── egitim_ogrenci_isleri/ # Example topic folder with .txt files
-├── chromadb_data/ # Automatically created vector DB
-├── utils.py # Embedding pipeline: load, split, embed
-├── ask.py # Chat interface with session memory
-└── requirements.txt # All required packages
+- **Enhanced Embedding Quality**:  
+  The `nomic-embed-text` model was adopted due to its multilingual capabilities and strong support for Turkish. It replaced former Hugging Face-based models to ensure a 100% Ollama-based, offline architecture.
+
+- **Upgraded Language Model**:  
+  The `gemma3:12b-it` model was selected for its superior performance on instruction-following tasks and strong Turkish language understanding.
+
+---
+
+
+## Running the Project
+
+### Step 1 – Pull Required Ollama Models
+```bash
+ollama pull nomic-embed-text
+ollama pull gemma3:12b-it
+pip install -r requirements.txt
+python utils.py
+python ask.py
+
+
+

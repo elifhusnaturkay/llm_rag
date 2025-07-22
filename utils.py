@@ -6,10 +6,8 @@ from docx import Document as DocxDocument
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 import ollama
 
-ollama_embedding_model = "mxbai-embed-large"
-
 class OllamaEmbeddingFunction:
-    def __init__(self, model_name):
+    def __init__(self, model_name="nomic-embed-text"):
         self.model_name = model_name
 
     def __call__(self, input):
@@ -21,14 +19,13 @@ class OllamaEmbeddingFunction:
 def get_chroma():
     persist_path = os.path.join(os.path.dirname(__file__), "chromadb_data")
     client = chromadb.PersistentClient(path=persist_path)
-    embedding_function = OllamaEmbeddingFunction(ollama_embedding_model)
     collection = client.get_or_create_collection(
         name="llm_docs",
-        embedding_function=embedding_function
+        embedding_function = OllamaEmbeddingFunction()
+
     )
     return collection
 
-# dosyadan metin çıkarma
 def extract_text(file_path):
     _, ext = os.path.splitext(file_path)
     if ext.lower() == ".pdf":
@@ -45,22 +42,28 @@ def extract_text(file_path):
 
 def chunk_text(text):
     splitter = RecursiveCharacterTextSplitter(
-        chunk_size=50,
-        chunk_overlap=0,
+        chunk_size=1000,
+        chunk_overlap=100,
         separators=[".", "\n", " ", "(", ")", "{", "}"]
     )
     return splitter.split_text(text)
 
+# Belgeleri veritabanına ekleme ve chunk'ları dosyaya yazma
 def add_documents_from_folder(folder_path):
     collection = get_chroma()
+    all_chunks = []
     for file in os.listdir(folder_path):
         file_path = os.path.join(folder_path, file)
         text = extract_text(file_path)
         chunks = chunk_text(text)
+        all_chunks.extend(chunks)
         for chunk in chunks:
             collection.add(documents=[chunk], ids=[str(uuid.uuid4())])
         print(f"{file} -> {len(chunks)} parça eklendi.")
 
+    with open("chunk_debug_output.txt", "w", encoding="utf-8") as f:
+        for i, chunk in enumerate(all_chunks, 1):
+            f.write(f"[Chunk {i}]:\n{chunk}\n\n")
 
 if __name__ == "__main__":
     add_documents_from_folder("pdf_files/egitim_ogrenci_isleri_pdf")
